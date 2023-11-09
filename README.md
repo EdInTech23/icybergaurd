@@ -21,7 +21,7 @@ Created in November of 2023, iCyber-Gaurd is a team of information security prof
 
 <br>
 
-Please feel free to navigate through our repos to see our Documentation 📝,  Findings 🕵️ , and Presentation Materials 📺.
+Please feel free to navigate through our repos to see our Documentation 📝, and Presentation Materials 📺.
 
 <br>
 
