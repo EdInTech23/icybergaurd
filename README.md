@@ -37,7 +37,6 @@ Please feel free to navigate through our repos to see our Documentation 📝,  F
 [Presentation](https://github.com/Cerulean-Shield/Presentation)
 
 ### iCyber-Gaurd SOP
+| [SOP 1]() | [SOP 2]() | [SOP 3]() |
+|:----------------------:|:-----------------------:|:----------------------:|
 
-[SOP 1]()
-[SOP 2]()
-[SOP 3]()
