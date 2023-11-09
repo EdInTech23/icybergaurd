@@ -2,16 +2,13 @@
 
 <br>
 
-### Problem Domain
+### About
 
-Our team has been contracted to serve as the Blue Team for a one-time adversary emulation engagement. The CTO is concerned with the  is concerned with the security posture of the company's cloud systems, after having already experienced sensitive data exposure as a result of misconfiguration of an employee's instance. Our Blue Team is responible for monitoring the defensive systems and making meaningful improvements to threat detection capabilities. 
 
-_In order to create a productive learning experience for both teams, the Rules of Engagement prevented Cerulean Shield from responding to incidents as they occured._
-<br>
 
 ### About Cerulean Shield
 
-Created in September of 2023, Cerulean Shield is a team of information security professionals from across the US. This github repo represents the culmination of the Code Fellows Cybersecurity Engineering Program.
+Created in November of 2023, iCyber-Gaurd is a team of information security professionals from across the US. This github repo represents the midterm project of the Code Fellows Cybersecurity Engineering Program.
 
 <br>
 
@@ -24,7 +21,7 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 <br>
 
-Please feel free to navigate through our repos to see our Documentation 📝, Security Findings 🕵️ , and Presentation Materials 📺.
+Please feel free to navigate through our repos to see our Documentation 📝,  Findings 🕵️ , and Presentation Materials 📺.
 
 <br>
 
@@ -39,4 +36,8 @@ Please feel free to navigate through our repos to see our Documentation 📝, Se
 
 [Presentation](https://github.com/Cerulean-Shield/Presentation)
 
-[Security_Findings](https://github.com/Cerulean-Shield/Security_Findings)
+### iCyber-Gaurd SOP
+
+[SOP 1]()
+[SOP 2]()
+[SOP 3]()
