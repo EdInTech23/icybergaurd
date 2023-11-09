@@ -17,10 +17,10 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 ### Cerulean Shield Team Members
 
-| Jonathan McMullin | Robert Gillespie | Chris Bennett | Ben Hobbs | Gerald Reitmeyer |
-|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/jon-mcmullin-cybersecurity//) | [Linkedin](https://www.linkedin.com/in/robert-gillespie-420918272//) | [Linkedin](https://www.linkedin.com/in/chris-bennett-cybersecurity/) | [Linkedin](https://www.linkedin.com/in/benjaminshobbs/) | [Linkedin](https://www.linkedin.com/in/gerald-reitmeyer/) |
-| [Github](https://github.com/mcmullinj84) | [Github](https://github.com/Puyallup253) | [Github](https://github.com/marsecguy) | [Github](https://github.com/benjamin-s-hobbs) | [Github](https://github.com/gerreit) |
+| Joe Gutmann | Edwin Pretel | Nathalie Abdallah | Genevieve |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/joegutmann/)) | [Linkedin](http://www.linkedin.com/in/preteledwin) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) | [Linkedin]() 
+| [Github](https://github.com/Joegutmann) | [Github](http://www.linkedin.com/in/preteledwin) | [Github](https://github.com/nataliabdallah) | [Github]() 
 
 <br>
 
