@@ -35,7 +35,7 @@ Please feel free to navigate through our repos to see our Documentation 📝, Se
 
 ### Repositories
 
-[Documentation](https://github.com/Cerulean-Shield/Documentation)
+[Documentation](https://github.com/iCyber-Gaurd/Documentation)
 
 [Presentation](https://github.com/Cerulean-Shield/Presentation)
 
