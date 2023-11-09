@@ -30,7 +30,7 @@ Please feel free to navigate through our repos to see our Documentation 📝, Se
 
 ### Project Management
 
-[Trello Board](https://trello.com/b/kl52w4FJ/cerulean-shield)
+[Trello Board](https://trello.com/b/Qx70t40h/icyber-gaurd)
 <br>
 
 ### Repositories
