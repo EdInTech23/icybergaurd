@@ -2,11 +2,9 @@
 
 <br>
 
-### About
 
 
-
-### About Cerulean Shield
+### About iCyber-Gaurd
 
 Created in November of 2023, iCyber-Gaurd is a team of information security professionals from across the US. This github repo represents the midterm project of the Code Fellows Cybersecurity Engineering Program.
 
