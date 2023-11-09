@@ -12,7 +12,7 @@ Created in November of 2023, iCyber-Gaurd is a team of information security prof
 
 <br>
 
-### Cerulean Shield Team Members
+### iCyber-Gaurd Team Members
 
 | Joe Gutmann | Edwin Pretel | Nathalie Abdallah | Genevieve |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
