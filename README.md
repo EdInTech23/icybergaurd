@@ -19,7 +19,7 @@ Created in September of 2023, Cerulean Shield is a team of information security 
 
 | Joe Gutmann | Edwin Pretel | Nathalie Abdallah | Genevieve |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/joegutmann/)) | [Linkedin](http://www.linkedin.com/in/preteledwin) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) | [Linkedin]() 
+| [Linkedin](https://www.linkedin.com/in/joegutmann/) | [Linkedin](http://www.linkedin.com/in/preteledwin) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) | [Linkedin]() 
 | [Github](https://github.com/Joegutmann) | [Github](http://www.linkedin.com/in/preteledwin) | [Github](https://github.com/nataliabdallah) | [Github]() 
 
 <br>
