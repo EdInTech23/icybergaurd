@@ -35,6 +35,4 @@ Please feel free to navigate through our repos to see our Documentation 📝, an
 [Presentation](https://github.com/Cerulean-Shield/Presentation)
 
 ### iCyber-Gaurd SOP
-| [SOP 1](https://docs.google.com/document/d/1Otuz0Uc4NlfYUOgkII4mBvoP6DukBv6gcXOI9c1fHuQ/edit) | [SOP 2](https://docs.google.com/document/d/1x_lykpg7brHDw_9J3dmw31tSRVMFvNsLcdvibPScxaU/edit) | [SOP 3](https://docs.google.com/document/d/1sUOYsVd2G3o8Z6DxWrNIip21Zc-WJo7-j617_iWLJD0/edit) |
-|:----------------------:|:-----------------------:|:----------------------:|
-
+[SOP Page](https://github.com/iCyber-Gaurd/SOP)
