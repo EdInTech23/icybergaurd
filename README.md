@@ -9,8 +9,7 @@
 Created in November of 2023, iCyber-Gaurd is a team of information security professionals from across the US. This github repo represents the midterm project of the Code Fellows Cybersecurity Engineering Program.
 
 <br>
-[Topology](https://github.com/iCyber-Gaurd/icybergaurd/assets/143548087/b193b8ef-7f01-4db4-9d8b-eac62781eee0)
-<br>
+![1](https://user-images.githubusercontent.com/143548087/282640866-f9bbb3b2-a86e-42d3-8009-d5a4cec809fd.PNG)
 
 
 ### iCyber-Gaurd Team Members
