@@ -10,7 +10,7 @@ Created in November of 2023, iCyber-Gaurd is a team of information security prof
 
 <br>
 
-![1](https://user-images.githubusercontent.com/143548087/282640866-f9bbb3b2-a86e-42d3-8009-d5a4cec809fd.PNG)
+[![1](https://user-images.githubusercontent.com/143548087/282640866-f9bbb3b2-a86e-42d3-8009-d5a4cec809fd.PNG)](https://user-images.githubusercontent.com/143548087/283291762-0a51e9e8-4d8e-40b7-b021-9014589ef725.PNG)
 
 ### iCyber-Gaurd Team Members
 
