@@ -33,7 +33,7 @@ Please feel free to navigate through our repos to see our Documentation 📝, an
 
 ### Repositories
 
-[Presentation]()
+[Presentation](https://github.com/iCyber-Gaurd/Presentation)
 
 ### iCyber-Gaurd SOP
 [SOP Page](https://github.com/iCyber-Gaurd/SOP)
