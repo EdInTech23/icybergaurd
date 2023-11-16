@@ -1,1 +1,7 @@
+0 7 * * * /home/linuxmint/backup_script.sh
+
+# Open Terminal on Linux
+# type in: crontab -e
+# copy paste the line:
+# script runs a backup every day at 7 am.
 
