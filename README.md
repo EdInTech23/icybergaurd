@@ -32,8 +32,6 @@ Please feel free to navigate through our repos to see our Documentation 📝, an
 
 ### Repositories
 
-[Documentation](https://github.com/iCyber-Gaurd/Documentation)
-
 [Presentation](https://github.com/Cerulean-Shield/Presentation)
 
 ### iCyber-Gaurd SOP
